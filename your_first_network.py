@@ -1,4 +1,6 @@
 #Python手搓神经网络
+#这是B站教程的相关代码请结合下面地址中的教程使用：
+#https://www.bilibili.com/video/BV1py4y1F7vp/?spm_id_from=333.999.section.playall&vd_source=036afdc841b709a63dcc3989925f751a
 import numpy as np
 import createDataAndPlot as cp
 import copy
